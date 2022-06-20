@@ -16,8 +16,3 @@ print('Composition:', a)
 print('Division:', b)
 print('Subtraction:', c)
 print('Multiplication:', d)
-
-def veiksmas(skaicius, daugiklis=1):
-    print(skaicius * daugiklis)
-
-veiksmas(20)
