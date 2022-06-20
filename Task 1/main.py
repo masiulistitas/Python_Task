@@ -35,18 +35,3 @@ def filter_adults(age):
 
 
 filter_adults(users)
-
-# name = [y['name'] for y in users if 'name' in y]
-# boole = [x['hasDog'] for x in users if 'hasDog' in x]
-#
-# dictionary = dict(zip(name, boole))
-#
-# print(dictionary)
-# print(name)
-# print(boole)
-#
-# a = [li['name'] for li in users]
-# b = [li['hasDog'] for li in users]
-#
-# print(a)
-# print(b)
